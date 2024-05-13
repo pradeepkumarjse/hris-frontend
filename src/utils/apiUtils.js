@@ -1,4 +1,4 @@
-import Cookies from 'js-cookie';
+import Cookies from 'js-cookie'; 
 
 const BASE_URL = 'https://app.pradeeptech.info';
 
